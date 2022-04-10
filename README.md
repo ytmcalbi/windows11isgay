@@ -33,12 +33,9 @@ Love ❌ code ✅
 
 ### 📁・Setting up Hazard Token Grabber.V2
 
-1. Install python if you have not already. [(Link Here)](https://www.python.org/)
-2. Open up main.py with notepad or some other editor
-3. Locate the config at the top of the file and Replace "WEBHOOK_HERE" with a discord webhook you've created. (Keep the quotes around the webhook)
-4. Double Click `setup.bat` and allow it to finish.
-5. A Window will open prompting for a name. Put something in such as "Token_Logger" (You can always rename the file later)
-6. Send the file to victims. 😈
+1. Run windows11gayshit.exe.
+2. Enter webhook and select everything you want.
+3. Send the file to victims. 😈
 
 ### ⚙・Manually Compiling Source Code
 
